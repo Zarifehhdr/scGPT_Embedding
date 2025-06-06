@@ -14,6 +14,16 @@ This repository contains code for analyzing gene expression data and embeddings 
   - Gene trajectory analysis
   - Expression vs. embedding correlation plots
 
+## Pretrained Model
+
+The pretrained model files are available for download from Google Drive:
+- Download Link: [scGPT Model Files](https://drive.google.com/drive/folders/1oWh_-ZRdhtoGQ2Fw24HP41FgLoomVo-y)
+
+After downloading, place the following files in the `model_files` directory:
+- `best_model.pt` (195.9 MB)
+- `args.json`
+- `vocab.json`
+
 ## File Structure
 
 - `find_similar_genes.py`: Script for analyzing gene similarities based on embeddings
