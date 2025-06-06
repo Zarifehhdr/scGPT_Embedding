@@ -50,4 +50,7 @@ ENV/
 
 # OS
 .DS_Store
-Thumbs.db 
+Thumbs.db
+
+# Large model files
+model_files/best_model.pt 
